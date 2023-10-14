@@ -4,6 +4,9 @@
 	"parameters": {
 		"factoryName": {
 			"value": "ADFWafdemo"
+		},
+		"LnkAzureBlobStorage1_connectionString": {
+			"value": ""
 		}
 	}
 }
